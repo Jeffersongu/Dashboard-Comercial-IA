@@ -83,3 +83,5 @@ O Modelo de Requisitos foi adotado para garantir alinhamento claro entre o probl
 
 ---
 ## 🗣️ Alinhamento com os Stakeholders
+
+[Preview:](https://techflowinsights.lovable.app)
