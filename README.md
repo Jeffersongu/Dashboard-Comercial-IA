@@ -1,6 +1,6 @@
 # 🤖 Dashboard Comercial - IA
 <!-- Adicionando Gifs: -->
-<img width="1437" height="803" alt="image" src="https://github.com/user-attachments/assets/1d7f1707-5a31-482b-92f0-a5cd5f31992a" />
+<img width="1437" height="803" alt="image" src="https://github.com/user-attachments/assets/162ba6ef-5435-4d99-b835-25774e00bc6a" />
 
 
 
