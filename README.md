@@ -77,11 +77,11 @@ O plano contempla as fases de Análise, para entendimento do contexto e definiç
  ### Etapa 1: Análise de Projeto
  Nesta etapa, o foco é compreender profundamente o negócio do cliente. Isso envolve pesquisas, entrevistas e análises de documentos. O objetivo é identificar os desafios e necessidades do cliente, criando uma base sólida para as tarefas subsequentes.
 
-<br/>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/7ef8ad98-2b44-4cf1-ab7c-f32264526442" width="800" alt="image">
+<img src="https://github.com/user-attachments/assets/4ec35d2d-b6fc-4a4d-9c62-1672a4c20d36" width="800" alt="image">
 </p>
+
 
  Etapa completa:
 
