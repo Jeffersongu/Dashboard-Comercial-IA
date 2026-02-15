@@ -72,7 +72,8 @@ Com base na análise inicial, o projeto é tecnicamente viável, pois:
 
 Observação: Os resultados devem ser interpretados como prova de conceito (POC), podendo requerer ajustes finos quando aplicados sobre dados reais de produção.
 
-- Equipe: Análise Descritiva (Claude): | Resumo Executivo:
+- Equipe: Análise Descritiva (Claude): [Python](https://github.com/Jeffersongu/Dashboard-Comercial-IA/blob/main/An%C3%A1lise%20de%20Projeto/1.%20An%C3%A1lise%20Explorat%C3%B3ria%20-%20Equipe/An%C3%A1lise%20Explorat%C3%B3ria%20-%20Equipe.ipynb) ou [Excel](https://github.com/Jeffersongu/Dashboard-Comercial-IA/blob/main/An%C3%A1lise%20de%20Projeto/1.%20An%C3%A1lise%20Explorat%C3%B3ria%20-%20Equipe/An%C3%A1lise%20Explorat%C3%B3ria%20-%20Equipe.xlsx) | Resumo Executivo: [Pdf](https://github.com/Jeffersongu/Dashboard-Comercial-IA/blob/main/An%C3%A1lise%20de%20Projeto/1.%20An%C3%A1lise%20Explorat%C3%B3ria%20-%20Equipe/Relatorio%20Executivo%20-%20Equipe.pdf)
+
 - Metas: Análise Descritiva (Claude): | Resumo Executivo:
 - Produtos: Análise Descritiva (Claude): | Resumo Executivo:
 - Vendas: Análise Descritiva (Claude): | Resumo Executivo:
