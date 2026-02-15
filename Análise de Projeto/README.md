@@ -72,7 +72,11 @@ Com base na análise inicial, o projeto é tecnicamente viável, pois:
 
 Observação: Os resultados devem ser interpretados como prova de conceito (POC), podendo requerer ajustes finos quando aplicados sobre dados reais de produção.
 
-Análise Descritiva (Claude): | Resumo Executivo:
+- Equipe: Análise Descritiva (Claude): | Resumo Executivo:
+- Metas: Análise Descritiva (Claude): | Resumo Executivo:
+- Produtos: Análise Descritiva (Claude): | Resumo Executivo:
+- Vendas: Análise Descritiva (Claude): | Resumo Executivo:
+
 
 Análise Exploratória (Claude): | Resumo Executivo:
 
