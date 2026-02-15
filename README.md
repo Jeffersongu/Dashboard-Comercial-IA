@@ -51,9 +51,8 @@ A modelagem foi construída visando performance e clareza analítica, utilizando
 ---
  ## 📍 Premissas da Análise
 Para a condução desta análise, foram estabelecidas algumas premissas com o objetivo de garantir consistência, confiabilidade e alinhamento com o contexto do negócio. 
-- Construir um dashboard de performance de vendas, com um paínel rápido com meta de faturamento, performance do time, melhores produtos com visuais interativos.
 - Primeira versão com dados fictícios desenvolvidos por IA;
-- Toda a estrutura será realizada por IA e Power BI;
+- A estrutura será auxiliada por IA;
 - Período de análise de 2025 a janeiro de 2026;
 - Proposta feita em três dias para apresentação e validação.
 
