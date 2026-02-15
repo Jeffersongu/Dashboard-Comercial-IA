@@ -76,13 +76,13 @@ O plano contempla as fases de Análise, para entendimento do contexto e definiç
  ### Etapa 1: Análise de Projeto
  Nesta etapa, o foco é compreender profundamente o negócio do cliente. Isso envolve pesquisas, entrevistas e análises de documentos. O objetivo é identificar os desafios e necessidades do cliente, criando uma base sólida para as tarefas subsequentes.
 
+ Etapa completa: [Análise de Projeto](https://github.com/Jeffersongu/Dashboard-Comercial-IA/tree/main/An%C3%A1lise%20de%20Projeto)
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/4ec35d2d-b6fc-4a4d-9c62-1672a4c20d36" width="800" alt="image">
 </p>
 
 
- Etapa completa:
 
  ### Etapa 2: ETL
  Durante a fase ETL (Extração, Transformação e Carga), nosso foco é assegurar que os dados estejam prontos para análises relevantes. Na etapa de Extração, coletamos dados de diversas fontes; na Transformação, realizamos limpeza e adaptação; e na Carga, disponibilizamos os dados em formato propício para análises.
