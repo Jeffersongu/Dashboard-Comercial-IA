@@ -1,6 +1,7 @@
 # 🤖 Dashboard Comercial - IA
 <!-- Adicionando Gifs: -->
-<img width="1437" height="803" alt="image" src="https://github.com/user-attachments/assets/162ba6ef-5435-4d99-b835-25774e00bc6a" />
+<img width="1437" height="803" alt="image" src="https://github.com/user-attachments/assets/32b5e6e6-36b7-4ac6-881a-4c4c7690f20e" />
+
 
 
 
@@ -87,7 +88,13 @@ O plano contempla as fases de Análise, para entendimento do contexto e definiç
  ### Etapa 2: ETL
  Durante a fase ETL (Extração, Transformação e Carga), nosso foco é assegurar que os dados estejam prontos para análises relevantes. Na etapa de Extração, coletamos dados de diversas fontes; na Transformação, realizamos limpeza e adaptação; e na Carga, disponibilizamos os dados em formato propício para análises.
 
-Etapa completa:
+Etapa completa: [ETL](https://github.com/Jeffersongu/Dashboard-Comercial-IA/tree/main/ETL)
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e1c7f33a-83ee-4bd9-90ab-acda9245b355" width="500" alt="image">
+</p>
+
+
 
 
  ### Etapa 3: Modelagem
