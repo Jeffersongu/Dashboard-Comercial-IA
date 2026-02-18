@@ -59,10 +59,12 @@ Para a condução desta análise, foram estabelecidas algumas premissas com o ob
 
 ---
 ## 🔄 Pipeline de Dados (ETL)
-O pipeline do projeto segue as seguintes etapas:
+O pipeline realiza a ingestão de dados via arquivos CSV e Excel, centralizando-os no Power Query para tratamento e modelagem (ETL). Após o processamento, as informações são enviadas ao Power BI para a criação de dashboards e visualização estratégica de indicadores.
 
-- 
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8ae4c365-ad1e-4b20-99c4-437bd2ce740a" width="700" alt="image">
+</p>
 
 
 ---
