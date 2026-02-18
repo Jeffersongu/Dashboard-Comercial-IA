@@ -1,6 +1,12 @@
 # 🔄 Pipeline de Dados (ETL)
-Durante a fase ETL (Extração, Transformação e Carga), nosso foco é assegurar que os dados estejam prontos para análises relevantes. Na etapa de Extração, coletamos dados de diversas fontes; na Transformação, realizamos 
-limpeza e adaptação; e na Carga, disponibilizamos os dados em formato propício para análises.
+O pipeline do projeto segue as seguintes etapas:
+- Ingestão: Coleta de dados estruturados a partir de arquivos CSV (vendas, equipe, metas e produtos) e XLSX (fotos dos vendedores);
+- Transformação (ETL): Tratamento, limpeza e modelagem dos dados brutos utilizando o Power Query;
+- Visualização: Consolidação das informações no Power BI para geração de dashboards e análise de indicadores.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8ae4c365-ad1e-4b20-99c4-437bd2ce740a" width="700" alt="image">
+</p>
 
 
 ---
