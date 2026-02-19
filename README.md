@@ -115,7 +115,11 @@ Etapa completa: [Modelagem](https://github.com/Jeffersongu/Dashboard-Comercial-I
 ### Etapa 4: Designer do Projeto
  A fase de Design é fundamental para moldar a arquitetura e a estética da solução. Durante essa etapa, é crucial definir a estrutura da interface, os componentes visuais e a lógica de interação para proporcionar uma experiência eficiente aos usuários finais. Essas decisões têm um impacto significativo na usabilidade e na eficácia da solução, influenciando diretamente a qualidade da experiência do usuário final e a efetividade do projeto de BI como um todo.
 
-Etapa completa:
+Etapa completa: [Designer do Projeto](https://github.com/Jeffersongu/Dashboard-Comercial-IA/tree/main/Designer)
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/587ed337-6a3a-4d51-94c1-e1874c1edfd4" width="500" alt="image">
+</p>
 
 ### Etapa 5: Monitoramento
  A fase de Governança dos Dados é essencial para garantir a qualidade, integridade e segurança das informações manipuladas no projeto de BI. Nesse contexto, estabelecer políticas, normas e processos claros para a gestão dos dados é fundamental. A governança visa assegurar a confiabilidade das fontes de dados, promover a conformidade com regulamentações e padrões, além de definir papéis e responsabilidades na administração dos ativos de informação. Ao adotar práticas robustas de governança, a organização potencializa a tomada de decisões baseada em dados confiáveis e mitigação de riscos, contribuindo para o sucesso contínuo do projeto de BI.
