@@ -105,7 +105,12 @@ Etapa completa: [ETL](https://github.com/Jeffersongu/Dashboard-Comercial-IA/tree
  ### Etapa 3: Modelagem
 A Modelagem dos Dados representa a espinha dorsal do sistema, estabelecendo relacionamentos sólidos entre as tabelas e definindo a estrutura que suportará a análise de dados. Nessa fase, o foco está na criação de um modelo coeso e eficiente que atenda às necessidades específicas do negócio.
 
-Etapa completa:
+Etapa completa: [Modelagem](https://github.com/Jeffersongu/Dashboard-Comercial-IA/tree/main/Modelagem)
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/04075c63-265d-495d-a192-b918207307fd" width="500" alt="image">
+</p>
+
 
 ### Etapa 4: Designer do Projeto
  A fase de Design é fundamental para moldar a arquitetura e a estética da solução. Durante essa etapa, é crucial definir a estrutura da interface, os componentes visuais e a lógica de interação para proporcionar uma experiência eficiente aos usuários finais. Essas decisões têm um impacto significativo na usabilidade e na eficácia da solução, influenciando diretamente a qualidade da experiência do usuário final e a efetividade do projeto de BI como um todo.
