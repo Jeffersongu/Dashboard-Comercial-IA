@@ -96,7 +96,7 @@ O plano contempla as fases de Análise, para entendimento do contexto e definiç
 Etapa completa: [ETL](https://github.com/Jeffersongu/Dashboard-Comercial-IA/tree/main/ETL)
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/e1c7f33a-83ee-4bd9-90ab-acda9245b355" width="500" alt="image">
+<img src="https://github.com/user-attachments/assets/c5eadd9c-efc0-4995-9afa-5c3eedbf49ff" width="400" alt="image">
 </p>
 
 
@@ -125,7 +125,7 @@ Etapa completa: [Designer do Projeto](https://github.com/Jeffersongu/Dashboard-C
 ### Etapa 5: Governança dos Dados
  A fase de Governança dos Dados é essencial para garantir a qualidade, integridade e segurança das informações manipuladas no projeto de BI. Nesse contexto, estabelecer políticas, normas e processos claros para a gestão dos dados é fundamental. A governança visa assegurar a confiabilidade das fontes de dados, promover a conformidade com regulamentações e padrões, além de definir papéis e responsabilidades na administração dos ativos de informação. Ao adotar práticas robustas de governança, a organização potencializa a tomada de decisões baseada em dados confiáveis e mitigação de riscos, contribuindo para o sucesso contínuo do projeto de BI.
 
-Etapa completa:[Governança dos Dados](https://github.com/Jeffersongu/Dashboard-Comercial-IA/tree/main/Governan%C3%A7a%20dos%20Dados)
+Etapa completa: [Governança dos Dados](https://github.com/Jeffersongu/Dashboard-Comercial-IA/tree/main/Governan%C3%A7a%20dos%20Dados)
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/5ac82bc3-880f-4df2-99c0-ea3f53e5acba" width="500" alt="image">
