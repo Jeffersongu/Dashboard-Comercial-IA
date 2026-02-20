@@ -108,8 +108,9 @@ A Modelagem dos Dados representa a espinha dorsal do sistema, estabelecendo rela
 Etapa completa: [Modelagem](https://github.com/Jeffersongu/Dashboard-Comercial-IA/tree/main/Modelagem)
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/04075c63-265d-495d-a192-b918207307fd" width="500" alt="image">
+<img src="https://github.com/user-attachments/assets/244d39b0-296d-4674-aece-a5df73778e82" width="500" alt="image">
 </p>
+
 
 
 ### Etapa 4: Designer do Projeto
@@ -121,11 +122,14 @@ Etapa completa: [Designer do Projeto](https://github.com/Jeffersongu/Dashboard-C
 <img src="https://github.com/user-attachments/assets/587ed337-6a3a-4d51-94c1-e1874c1edfd4" width="500" alt="image">
 </p>
 
-### Etapa 5: Monitoramento
+### Etapa 5: Governança dos Dados
  A fase de Governança dos Dados é essencial para garantir a qualidade, integridade e segurança das informações manipuladas no projeto de BI. Nesse contexto, estabelecer políticas, normas e processos claros para a gestão dos dados é fundamental. A governança visa assegurar a confiabilidade das fontes de dados, promover a conformidade com regulamentações e padrões, além de definir papéis e responsabilidades na administração dos ativos de informação. Ao adotar práticas robustas de governança, a organização potencializa a tomada de decisões baseada em dados confiáveis e mitigação de riscos, contribuindo para o sucesso contínuo do projeto de BI.
 
-Etapa completa:
+Etapa completa:[Governança dos Dados](https://github.com/Jeffersongu/Dashboard-Comercial-IA/tree/main/Governan%C3%A7a%20dos%20Dados)
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5ac82bc3-880f-4df2-99c0-ea3f53e5acba" width="500" alt="image">
+</p>
 
 ---
  ## 5° Insights da Análise
