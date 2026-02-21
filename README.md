@@ -133,7 +133,50 @@ Etapa completa: [Governança dos Dados](https://github.com/Jeffersongu/Dashboard
 
 ---
  ## 5° Insights da Análise
- Não basta somente apresentar os dados ou visuais, é extremamente importante explicar com palavras o que o gráfico quer dizer, não acredite que os stakeholders entenderam os gráficos simplesmente observando, a parte técnica deve ser abstraída para que todos entendam. A análise dos dados permitiu identificar padrões relevantes como:
+ A análise dos dados permitiu identificar padrões relevantes como:
+ 
+ Superamos a meta em 5 meses na maior parte correspondendo ao segundo semestre que conincide com black Friday e dezembro, no entanto ficamos abaixo em 7 meses dos quais a maioria no primeiro semestre periodo de baixa vendas. A meta global esta próxima se conluída restando R$ 2.375.134,36 (98,91%).
+
+Insights Meta:
+
+1️⃣ Superamos a meta em 5 meses na maior parte correspondendo ao segundo semestre que conincide com black Friday e dezembro, no entanto ficamos abaixo em 7 meses dos quais a maioria no primeiro semestre periodo de baixa vendas.
+
+2️⃣ A meta global esta próxima se conluída restando R$ 2.375.134,36 (98,91%).
+
+
+Insights Vendedores:
+
+1️⃣ Performance Geral vs Meta:
+ - Apenas 3 vendedores superaram 100% da meta.
+
+2️⃣ Maiores Faturamentos:
+- Carla e Julio lideram em faturamento absoluto, porém não atingiram a meta.
+  - Alto volume não significa eficiência de meta.
+  - Pode haver metas mal calibradas ou oportunidades de melhoria na taxa de conversão.
+
+3️⃣ Maiores Quantidades de Vendas
+- Julio e Carla vendem muito em volume, mas o atingimento está abaixo de 100%.
+
+4️⃣ Análise do Gráfico de Dispersão (Qtd x Faturamento)
+- Temos dois perfis claros de vendedores:
+ - Volume e Faturamento Alto / Meta Não Atingida;
+ -  Volume e Faturamento Baixo / Meta Superada em dois casos;
+
+Investigar como se realiza a formualação das metas e Regular a calibragem das metas por vendedor e Replicar estratégias dos vendedores mais eficientes para os de baixo volume e faturamento;
+
+
+Insigths Produtos:
+
+1️⃣ Concentração de Receita
+- Os 2 primeiros produtos representam 28% do faturamento total.
+
+2️⃣ Categoria Mais Forte
+A categoria Tablets é o motor de receita da empresa.
+
+3️⃣ Volume Alto, Receita Baixa = Ticket Médio Menor
+- Mouse Pebble M350 (1,1%)
+- Combo MK270 (1,3%)
+- Teclado K380 (1,6%)
 
 
 ---
