@@ -13,7 +13,7 @@
 
 ---
 ## 🔍 Contexto
- - O propretário precisa acompanhar o desempenho dos vendedores e comparar o faturamento ano vs ano.
+ - O propretário precisa acompanhar o desempenho dos vendedores e comparar o faturamento vs meta.
  - Você como analista de dados propõem um dashboard em Power BI para entregar visão em tempo real em apenas 3 dias.
  - O único problema é que você tem pouco tempo de empresa e não podem acessar os dados reais.
 
@@ -27,6 +27,7 @@
 ## 🗂️ Dataset
 - Tabela Dimensão Equipe com formato csv;
 - Tabela Dimensão Produto com formato csv;
+- Tabela Dimensão Fotos Vendedores com formato xlsx;
 - Tabela Fato Metas com formato csv;
 - Tabela Fato Vendas com formato csv.
 
@@ -43,7 +44,6 @@
 ---
 ## 🧱 Modelagem de Dados
 A modelagem foi construída visando performance e clareza analítica, utilizando:
-
 - Modelo estrela;
 - Tabelas fato e dimensões;
 - Relacionamentos otimizados para análise no Power BI.
@@ -96,7 +96,7 @@ O plano contempla as fases de Análise, para entendimento do contexto e definiç
 Etapa completa: [ETL](https://github.com/Jeffersongu/Dashboard-Comercial-IA/tree/main/ETL)
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c5eadd9c-efc0-4995-9afa-5c3eedbf49ff" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/6d719167-8bcb-4266-b3d4-7299acb5cbac" width="450" alt="image">
 </p>
 
 
@@ -119,7 +119,7 @@ Etapa completa: [Modelagem](https://github.com/Jeffersongu/Dashboard-Comercial-I
 Etapa completa: [Designer do Projeto](https://github.com/Jeffersongu/Dashboard-Comercial-IA/tree/main/Designer)
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/587ed337-6a3a-4d51-94c1-e1874c1edfd4" width="500" alt="image">
+<img src="https://github.com/user-attachments/assets/587ed337-6a3a-4d51-94c1-e1874c1edfd4" width="460" alt="image">
 </p>
 
 ### Etapa 5: Governança dos Dados
